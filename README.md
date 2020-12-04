@@ -1,2 +1,1 @@
-# Virtual-Pet-1
-c34 project
+# class-35th-project
